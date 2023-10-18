@@ -19,6 +19,11 @@ p {
     <div class="image"> "https://www.travelandleisure.com/attractions/landmarks-monuments/eiffel-tower-facts" </div>
     <div class="text"> Text Added Here  </div>
   </div>
+  .gallery {
+  width:100%;
+  display:flex;
+  flex-flow: row wrap;
+}
 </style>
 </head>
 <body>
