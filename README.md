@@ -14,6 +14,11 @@ p {
   font-family: verdana;
   font-size: 16px;
 }
+<div class="gallery">
+  <div class="box"> 
+    <div class="image"> "https://www.travelandleisure.com/attractions/landmarks-monuments/eiffel-tower-facts" </div>
+    <div class="text"> Text Added Here  </div>
+  </div>
 </style>
 </head>
 <body>
