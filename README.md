@@ -3,17 +3,6 @@
 <html>
 <head>
 <style>
-body {
-  background-color: lightblue;
-}
-h1 {
-  color: pink;
-  text-align: center;
-}
-p {
-  font-family: verdana;
-  font-size: 16px;
-}
 <div class="gallery">
   <div class="box"> 
     <div class="image"> "https://www.travelandleisure.com/attractions/landmarks-monuments/eiffel-tower-facts" </div>
@@ -23,6 +12,17 @@ p {
   width:100%;
   display:flex;
   flex-flow: row wrap;
+}
+  body {
+  background-color: lightblue;
+}
+h1 {
+  color: pink;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 16px;
 }
 </style>
 </head>
